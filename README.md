@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/WpdqZ5Hx/Chat-GPT-Image-16-de-nov-de-2025-14-58-56.png" width="370px" alt="Mockup Conversor de Moedas"/>
+  <img src="https://i.postimg.cc/WpdqZ5Hx/Chat-GPT-Image-16-de-nov-de-2025-14-58-56.png" width="350px" alt="Mockup Conversor de Moedas"/>
 </div>
 
 # 💱 Conversor de Moedas
@@ -20,28 +20,27 @@ O Conversor de Moedas foi criado com o objetivo de praticar:
 - Manipulação de formulários no React  
 - Componentização e boas práticas  
 - Hospedagem com GitHub Pages  
-- Design simples, funcional e agradável  
+- Design simples, funcional e elegante  
 
 A interface apresenta:
 
 - Entrada de valor  
 - Seletor de moeda de origem  
 - Seletor de moeda de destino  
-- Botão para inverter as moedas  
-- Resultado automático e atualizado  
-- Bandeiras exibidas no select para facilitar identificação visual  
+- Botão para inverter moedas  
+- Resultado automático  
+- Bandeiras de cada país para identificação visual  
 
 ---
 
 ## ✨ Funcionalidades
 
-✔️ Converter qualquer valor entre moedas disponíveis  
-✔️ Atualização automática ao trocar moeda ou valor  
-✔️ Botão para inverter moeda de origem/destino  
-✔️ Ícones de bandeiras para identificar as moedas  
-✔️ Interface simples, bonita e responsiva  
-✔️ Tratamento de erros básicos  
-✔️ Layout centralizado e limpo  
+✔️ Conversão automática entre moedas  
+✔️ Ícones de bandeiras para facilitar identificação  
+✔️ Botão para inverter BRL ⇄ USD rapidamente  
+✔️ Interface moderna e responsiva  
+✔️ Atualiza resultado em tempo real ao alterar o valor  
+✔️ Consumo direto de API de câmbio  
 
 ---
 
@@ -49,10 +48,10 @@ A interface apresenta:
 
 - **React 19**
 - **Vite**
-- **JavaScript (ES6+)**
+- **JavaScript**
 - **CSS**
 - **API ExchangeRate**
-- **gh-pages (deploy)**
+- **gh-pages**
 
 ---
 
