@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/WpdqZ5Hx/Chat-GPT-Image-16-de-nov-de-2025-14-58-56.png" width="350px" alt="Mockup Conversor de Moedas"/>
+  <img src="https://i.postimg.cc/WpdqZ5Hx/Chat-GPT-Image-16-de-nov-de-2025-14-58-56.png" width="500px" alt="Mockup Conversor de Moedas"/>
 </div>
 
 # 💱 Conversor de Moedas
